@@ -4,7 +4,7 @@
 
 
 Windows export utility to automatically transfer entire set of tables from Microsoft SQL, Oracle or MySQL database servers to Snowflake. it will create Schema, Tables & transfer data with proper data type mapping and conversions for date & binary formats.
-- **12/20/2020 Added PostGres as Source (Requires ODBC Driver found [here](https://www.postgresql.org/ftp/odbc/versions/msi/)**
+- **12/20/2020 Added PostGres as Source (Requires ODBC Driver found [here](https://www.postgresql.org/ftp/odbc/versions/msi/)**)
 - **12/18/2020 Added Proxy Server option for Snowflake**
 - **12/2/2020 Fixed Date Formatting issues.**
 
