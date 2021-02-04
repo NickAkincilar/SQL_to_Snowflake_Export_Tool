@@ -21,7 +21,9 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 
 [1- Download SQL_to_Snowflake Installer](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/raw/main/MsSQL_To_Snowflake.zip)
 
-2- Unzip & install using Setup.exe
+2- Unzip the file
+
+3- **(RUN-AS-ADMIN) Setup.exe**  (You may have to click INFO & RUN ANYWAY if you get DON'T RUN warning due to this app not being signed)
 
 [3- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
 
