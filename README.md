@@ -17,6 +17,8 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 - **12/18/2020 Added Proxy Server option for Snowflake**
 
 <BR><BR>
+  
+# Installation
 
 **App requires Snowflake_ODBC_driver Win64 to be installed on the machine before it can run properly.**
 
