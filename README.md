@@ -27,9 +27,9 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 
 [3- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
 
-4- Optional Drivers to Download & Install 
-[Oracle OLEDB 64-bit Driver)](https://www.oracle.com/database/technologies/odac-downloads.html)
-[SAP Hana](https://tools.hana.ondemand.com/#hanatools)
+4- Optional Drivers to Download & Install for Oracle & SAP Hana
+- [Download Oracle OLEDB 64-bit Driver)](https://www.oracle.com/database/technologies/odac-downloads.html)
+- [Download SAP Hana ODBC Driver](https://tools.hana.ondemand.com/#hanatools)
 
 This utility will automatically move tables (in full) from a source database (MsSQL or Oracle) to Snowflake. Just select a list of tables from source db and point to an existing Snowflake account & a database with proper user cridentials to start transfering schemas, tables & data.
 
