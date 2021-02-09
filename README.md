@@ -44,7 +44,7 @@ The tool will do the following for each table:
 - Auto map proper datatypes.
 - Perform date type conversion
 - if **EXPORT DATA** is checked (checked by default)
-  - Export the data into a temp folder as flat files broken in to chunks (10MB - 100MB).
+  - Export the data into a temp folder as flat files broken in to chunks (**10MB - 600MB**).
   - Create an internal stage in the target Snowflake database & Upload the files
   - Copy the uploaded files into the proper table in snowflake.
 
