@@ -12,8 +12,8 @@ Windows export utility to automatically transfer entire set of tables & data fro
 
 The tool will create Schema, Tables & optionally transfer data with proper data type mappings and conversions for date & binary formats.
 
-- **2/9/2021 Added SAP/Hana as Source 
-- **12/20/2020 Added PostGres as Source 
+- **2/9/2021 Added SAP/Hana as Source **
+- **12/20/2020 Added PostGres as Source **
 - **12/18/2020 Added Proxy Server option for Snowflake**
 
 <BR><BR>
