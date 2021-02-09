@@ -26,9 +26,9 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 
 3- **(RUN-AS-ADMIN) Setup.exe**  (You may have to click INFO & RUN ANYWAY if you get DON'T RUN warning due to this app not being signed)
 
-[3- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
+[4- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
 
-4- Optional Drivers to Download & Install for Oracle & SAP Hana
+5- Optional Drivers to Download & Install for Oracle & SAP Hana
 - [Download Oracle OLEDB 64-bit Driver)](https://www.oracle.com/database/technologies/odac-downloads.html)
 - [Download SAP Hana ODBC Driver](https://tools.hana.ondemand.com/#hanatools)
 
