@@ -93,6 +93,8 @@ This application is not associated with Snowflake Inc. & not a supported product
 
 # Version History
 
+- <strong>3/11/2021 - Removed Clientside 45 secs Timeout</strong>
+- 
 - <strong>12/02/2020 - Fixed date formatting issues</strong>
 
 - <strong>11/30/2020 - Updated V9 - Added MySQL Schema & Data Export option (beta)</strong>
