@@ -20,6 +20,30 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 - **12/20/2020 Added PostGres as Source**
 - **12/18/2020 Added Proxy Server option for Snowflake**
 
+
+
+# Version History
+
+- <strong>3/11/2021 - Removed Clientside 45 secs Timeout</strong>
+
+- <strong>12/02/2020 - Fixed date formatting issues</strong>
+
+- <strong>11/30/2020 - Updated V9 - Added MySQL Schema & Data Export option (beta)</strong>
+ 
+- <strong>11/23/2020 - Updated V8 - Added ORACLE Schema & Data Export option (beta)</strong>
+  - Extraction Performance improvements for larger datasets.
+  - Modified RECORD_SEPERATOR to HEX 0x02 to reduce export file size.
+- <strong>11/22/2020 - Updated V7 with following changes</strong>
+  - Extraction Performance improvements for larger datasets.
+
+- <strong>11/21/2020 - Updated V6 with following changes</strong>
+  - Added Windows Authentication support for SQL connection
+  - Added max file size option for exporting chucks for large table exports (10, 25, 50, 75 & 100 MB)
+  - Added Option to Enable/Disable client side file compression (gzip) prior to uploading to Snowflake
+  - Enhanced logic to reduce redundant SQL create schema commands.
+  - Fixed an issue with Column names with spaces.
+  - Fixed an issue displaying status for tables with 0 records
+
 <BR><BR>
   
 # Installation
@@ -91,26 +115,5 @@ This application is not associated with Snowflake Inc. & not a supported product
 
 
 
-# Version History
-
-- <strong>3/11/2021 - Removed Clientside 45 secs Timeout</strong>
-- 
-- <strong>12/02/2020 - Fixed date formatting issues</strong>
-
-- <strong>11/30/2020 - Updated V9 - Added MySQL Schema & Data Export option (beta)</strong>
- 
-- <strong>11/23/2020 - Updated V8 - Added ORACLE Schema & Data Export option (beta)</strong>
-  - Extraction Performance improvements for larger datasets.
-  - Modified RECORD_SEPERATOR to HEX 0x02 to reduce export file size.
-- <strong>11/22/2020 - Updated V7 with following changes</strong>
-  - Extraction Performance improvements for larger datasets.
-
-- <strong>11/21/2020 - Updated V6 with following changes</strong>
-  - Added Windows Authentication support for SQL connection
-  - Added max file size option for exporting chucks for large table exports (10, 25, 50, 75 & 100 MB)
-  - Added Option to Enable/Disable client side file compression (gzip) prior to uploading to Snowflake
-  - Enhanced logic to reduce redundant SQL create schema commands.
-  - Fixed an issue with Column names with spaces.
-  - Fixed an issue displaying status for tables with 0 records
   
   
