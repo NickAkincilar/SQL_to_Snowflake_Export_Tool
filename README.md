@@ -58,7 +58,8 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 
 [4- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
 
-5- Optional Drivers to Download & Install for Oracle & SAP Hana
+5- Optional Drivers to Download & Install for Oracle & SAP Hana, MsSQL
+- [Download Microsot SQL OLEDB 64-bit Driver)](https://www.microsoft.com/en-us/download/details.aspx?id=56730)
 - [Download Oracle OLEDB 64-bit Driver)](https://www.oracle.com/database/technologies/odac-downloads.html)
 - [Download SAP Hana ODBC Driver](https://tools.hana.ondemand.com/#hanatools)
 - [Download PostGres ODBC Driver](https://www.postgresql.org/ftp/odbc/versions/msi/)
