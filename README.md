@@ -53,16 +53,17 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 [1- Download SQL_to_Snowflake Installer](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/raw/main/MsSQL_To_Snowflake.zip)
 
 2- Unzip the file
-
-3- **(RUN-AS-ADMIN) Setup.exe**  (You may have to click INFO & RUN ANYWAY if you get DON'T RUN warning due to this app not being signed)
-
-[4- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
-
-5- Optional Drivers to Download & Install for Source Databases
+ 
+3- Download & Install drivers matching your Source Databases
 - [Download Microsot SQL OLEDB 64-bit Driver](https://www.microsoft.com/en-us/download/details.aspx?id=56730)
 - [Download Oracle OLEDB 64-bit Driver)](https://www.oracle.com/database/technologies/odac-downloads.html)
 - [Download SAP Hana ODBC Driver](https://tools.hana.ondemand.com/#hanatools)
-- [Download PostGres ODBC Driver](https://www.postgresql.org/ftp/odbc/versions/msi/)
+- [Download PostGres ODBC Driver](https://www.postgresql.org/ftp/odbc/versions/msi/) 
+ 
+[4- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
+
+ 5- **(RUN-AS-ADMIN) Setup.exe**  (You may have to click INFO & RUN ANYWAY if you get DON'T RUN warning due to this app not being signed)
+
 
 
 <br><br><br><br>
