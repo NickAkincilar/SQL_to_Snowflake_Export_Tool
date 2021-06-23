@@ -15,7 +15,7 @@ Windows export utility to automatically transfer entire set of tables & data fro
 <br>
 <br>
 The tool will create Schema, Tables & optionally transfer data with proper data type mappings and conversions for date & binary formats.
-
+- **6/23/2021 AddedRedshift as a separate Source using RedShift ODBC Drivers**
 - **2/9/2021 Added SAP/Hana as Source**
 - **12/20/2020 Added PostGres as Source**
 - **12/18/2020 Added Proxy Server option for Snowflake**
@@ -59,6 +59,7 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 - [Download Oracle OLEDB 64-bit Driver)](https://www.oracle.com/database/technologies/odac-downloads.html)
 - [Download SAP Hana ODBC Driver](https://tools.hana.ondemand.com/#hanatools)
 - [Download PostGres ODBC Driver](https://www.postgresql.org/ftp/odbc/versions/msi/) 
+- [Download RedShift ODBC 64-bit Driver](https://docs.aws.amazon.com/redshift/latest/mgmt/configure-odbc-connection.html#install-odbc-driver-windows) 
  
 [4- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
 
