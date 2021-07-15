@@ -11,7 +11,8 @@ Below are the Supported Sources:
 
 - **Microsoft SQL**
 - **Oracle   -  (*Requires Oracle OLEDB 64-bit Driver found [here](https://www.oracle.com/database/technologies/odac-downloads.html)***)
-- **RedShift**
+- **RedShift -  (*Requires RedShift ODBC Driver found [here](https://docs.aws.amazon.com/redshift/latest/mgmt/configure-odbc-connection.html#install-odbc-driver-windows)***) 
+ 
 - **SAP Hana - (*Requires Hana ODBC Client found [here](https://tools.hana.ondemand.com/#hanatools)***)
 - **MySQL** 
 - **Postres  -  (*Requires PostGre ODBC Driver found [here](https://www.postgresql.org/ftp/odbc/versions/msi/)***)
