@@ -4,8 +4,14 @@
 
 
 Windows export utility to automatically transfer entire set of tables & data from following database platforms to Snowflake. 
+
+**This utility is not intended to run on the DB server itself so please install it on a stand-alone machine that has connections to all your sources.**
+
+Below are the Supported Sources:
+
 - **Microsoft SQL**
 - **Oracle   -  (*Requires Oracle OLEDB 64-bit Driver found [here](https://www.oracle.com/database/technologies/odac-downloads.html)***)
+- **RedShift**
 - **SAP Hana - (*Requires Hana ODBC Client found [here](https://tools.hana.ondemand.com/#hanatools)***)
 - **MySQL** 
 - **Postres  -  (*Requires PostGre ODBC Driver found [here](https://www.postgresql.org/ftp/odbc/versions/msi/)***)
