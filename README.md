@@ -9,7 +9,7 @@ Windows export utility to automatically transfer entire set of tables & data fro
 
 Below are the Supported Sources:
 
-- **Microsoft SQL**
+- **Microsoft SQL -  (*Requires Microsot SQL OLEDB 64-bit Driver [here](https://www.microsoft.com/en-us/download/details.aspx?id=56730)***)
 - **Oracle   -  (*Requires Oracle OLEDB 64-bit Driver found [here](https://www.oracle.com/database/technologies/odac-downloads.html)***)
 - **RedShift -  (*Requires RedShift ODBC Driver found [here](https://docs.aws.amazon.com/redshift/latest/mgmt/configure-odbc-connection.html#install-odbc-driver-windows)***) 
  
