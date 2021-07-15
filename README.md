@@ -23,17 +23,17 @@ Below are the Supported Sources:
 <br>
 The tool will create Schema, Tables & optionally transfer data with proper data type mappings and conversions for date & binary formats.
 
-- **6/23/2021 Added Redshift as a separate Source using RedShift ODBC Drivers**
-- **2/9/2021 Added SAP/Hana as Source**
-- **12/20/2020 Added PostGres as Source**
-- **12/18/2020 Added Proxy Server option for Snowflake**
+
 
 
 
 # Version History
+- **6/23/2021 Added Redshift as a separate Source using RedShift ODBC Drivers**
+- **2/9/2021 Added SAP/Hana as Source**
 
 - <strong>3/11/2021 - Removed Clientside 45 secs Timeout</strong>
-
+- **12/20/2020 Added PostGres as Source**
+- **12/18/2020 Added Proxy Server option for Snowflake**
 - <strong>12/02/2020 - Fixed date formatting issues</strong>
 
 - <strong>11/30/2020 - Updated V9 - Added MySQL Schema & Data Export option (beta)</strong>
