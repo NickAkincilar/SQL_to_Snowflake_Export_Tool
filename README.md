@@ -2,10 +2,9 @@
 
 
 
+### *This utility is not intended to run on the DB server itself so please install it on a stand-alone machine that has connectivity to all your sources.*
 
 Windows export utility to automatically transfer entire set of tables & data from following database platforms to Snowflake. 
-
-**This utility is not intended to run on the DB server itself so please install it on a stand-alone machine that has connections to all your sources.**
 
 Below are the Supported Sources:
 
