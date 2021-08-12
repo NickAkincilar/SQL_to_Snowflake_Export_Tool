@@ -1,4 +1,4 @@
-# WowMaker | SQL to Snowflake Export Utility
+# WowMaker | Free Data Migration & Export Tool for Snowflake
 
 
 
