@@ -70,7 +70,7 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
  
 [4- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
 
- 5- **(RUN-AS-ADMIN) Setup.exe**  (You may have to click**INFO & RUN ANYWAY** if you get DON'T RUN warning due to this app not being signed)
+ 5- **(RUN-AS-ADMIN) Setup.exe**  (You may have to click **INFO & RUN ANYWAY** if you get DON'T RUN warning due to this app not being signed)
 
  
  ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/Capture1_LI.jpg)
