@@ -59,7 +59,7 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 
 1- Download [**WowInstaller.msi**](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/raw/main/WowInstaller.msi)
 
-2- Run the WowInstaller.msi (You may have to click **INFO & RUN ANYWAY** if you get DON'T RUN warning due to this app not being signed)
+2- Run the **WowInstaller.msi** file (You may have to click **INFO & RUN ANYWAY** if you get DON'T RUN warning due to this app not being signed)
  
  ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/Capture1_LI.jpg)
  ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/Capture2.PNG)
