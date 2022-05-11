@@ -16,7 +16,7 @@ Below are the Supported Sources:
 - **MySQL** 
 - **Postres  -  (*Requires PostGre ODBC Driver found [here](https://www.postgresql.org/ftp/odbc/versions/msi/)***)
 <br><br>
-![Image of SQL to Snowflake tool](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/blob/main/SQL_2_Snowflake_Screenshot_H.png.PNG)
+![Image of SQL to Snowflake tool](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/blob/main/images/SQL_2_Snowflake_Screenshot_H.png.PNG)
 
 <br>
 <br>
@@ -35,8 +35,8 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 
 2- Run the **WowInstaller.msi** file (You may have to click **INFO & RUN ANYWAY** if you get DON'T RUN warning due to this app not being signed)
  
- ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/Capture1_LI.jpg)
- ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/Capture2.PNG)
+ ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/images/Capture1_LI.jpg)
+ ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/images/Capture2.PNG)
  
 
 3- Download & Install [Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
@@ -106,28 +106,28 @@ This application is not associated with Snowflake Inc. & not a supported product
 
 
 # Export Microsoft SQL
-![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot_S.png)
+![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/images/SQL_2_Snowflake_Screenshot_S.png)
 
 <br>
 <br>
 
 # Export Oracle
 
-![Image of Oracle to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot_O.png)
+![Image of Oracle to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/images/SQL_2_Snowflake_Screenshot_O.png)
 
 <br>
 <br>
 
 # Export MySQL
 
-![Image of Oracle to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot_MySQL.png)
+![Image of Oracle to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/images/SQL_2_Snowflake_Screenshot_MySQL.png)
 
 
 
 <br><br>
 # Export Postgres
 
-![Image of Oracle to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/SQL_2_Snowflake_Screenshot_P.png)
+![Image of Oracle to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/images/SQL_2_Snowflake_Screenshot_P.png)
 
 
 
