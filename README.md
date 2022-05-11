@@ -50,9 +50,10 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
  
  5- Search & Start **Wowmaker Migration to Snowflake** in your Programs Menu (OR Run ""C:\Program Files\Wowmaker\WowMaker SQL_to_Snowflake\WowMaker_SQL_2_Snowflake.exe")
  
+  
+# Description
 
 
-<br><br><br><br>
 This utility will automatically move tables (in full) from a source database (MsSQL or Oracle) to Snowflake. Just select a list of tables from source db and point to an existing Snowflake account & a database with proper user cridentials to start transfering schemas, tables & data.
 
 
@@ -61,6 +62,7 @@ The tool will do the following for each table:
 - Generate a DDL & Create the table in Snowflake.
 - Auto map proper datatypes.
 - Perform date type conversion
+- Login to Snowflake using SSO. Fill in userid in WowMaker & Leave PW blank. Userid has to match the userid used with SSO.
 - if **EXPORT DATA** is checked (checked by default)
   - Export the data into a temp folder as flat files broken in to chunks (**10MB - 600MB**).
   - Create an internal stage in the target Snowflake database & Upload the files
