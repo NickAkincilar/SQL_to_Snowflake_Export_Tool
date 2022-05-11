@@ -59,22 +59,21 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 
 1- Download [WowInstaller.msi](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/raw/main/WowInstaller.msi)
 
-2- Run the WowInstaller.msi
+2- Run the WowInstaller.msi (You may have to click **INFO & RUN ANYWAY** if you get DON'T RUN warning due to this app not being signed)
  
-3- Download & Install drivers matching your Source Databases
+ ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/Capture1_LI.jpg)
+ ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/Capture2.PNG)
+ 
+
+3- Download & Install [Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
+ 
+4- Download & Install drivers matching your Source Databases
 - [Download Microsot SQL OLEDB 64-bit Driver](https://www.microsoft.com/en-us/download/details.aspx?id=56730)
 - [Download Oracle OLEDB 64-bit Driver)](https://www.oracle.com/database/technologies/odac-downloads.html)
 - [Download SAP Hana ODBC Driver](https://tools.hana.ondemand.com/#hanatools)
 - [Download PostGres ODBC Driver](https://www.postgresql.org/ftp/odbc/versions/msi/) 
 - [Download RedShift ODBC 64-bit Driver](https://docs.aws.amazon.com/redshift/latest/mgmt/configure-odbc-connection.html#install-odbc-driver-windows) 
  
-[4- Download & Install Snowflake Win64 ODBC Driver](https://sfc-repo.snowflakecomputing.com/odbc/win64/latest/index.html)
-
- 5- **(RUN-AS-ADMIN) Setup.exe**  (You may have to click **INFO & RUN ANYWAY** if you get DON'T RUN warning due to this app not being signed)
-
- 
- ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/Capture1_LI.jpg)
- ![Image of SQL to Snowflake tool](https://raw.githubusercontent.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/main/Capture2.PNG)
 
 
 <br><br><br><br>
