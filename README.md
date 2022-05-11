@@ -74,6 +74,8 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 - [Download PostGres ODBC Driver](https://www.postgresql.org/ftp/odbc/versions/msi/) 
 - [Download RedShift ODBC 64-bit Driver](https://docs.aws.amazon.com/redshift/latest/mgmt/configure-odbc-connection.html#install-odbc-driver-windows) 
  
+ 5- Search & Start **Wowmaker Migration to Snowflake** in your Programs Menu (OR Run ""C:\Program Files\Wowmaker\WowMaker SQL_to_Snowflake\WowMaker_SQL_2_Snowflake.exe")
+ 
 
 
 <br><br><br><br>
