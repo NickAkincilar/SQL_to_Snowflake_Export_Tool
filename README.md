@@ -57,9 +57,9 @@ The tool will create Schema, Tables & optionally transfer data with proper data 
 
 **App requires Snowflake_ODBC_driver Win64 to be installed on the machine before it can run properly.**
 
-[1- Download SQL_to_Snowflake Installer](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/raw/main/MsSQL_To_Snowflake.zip)
+[1- Download WowInstaller.msi](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/raw/main/WowInstaller.msi)
 
-2- Unzip the file
+2- Run the WowInstaller.msi
  
 3- Download & Install drivers matching your Source Databases
 - [Download Microsot SQL OLEDB 64-bit Driver](https://www.microsoft.com/en-us/download/details.aspx?id=56730)
