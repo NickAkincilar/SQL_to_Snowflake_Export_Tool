@@ -14,7 +14,7 @@ Below are the Supported Sources:
  
 - **SAP Hana - (*Requires Hana ODBC Client found [here](https://tools.hana.ondemand.com/#hanatools)***)
 - **MySQL** 
-- **Postres  -  (*Requires PostGre ODBC Driver found [here](https://www.postgresql.org/ftp/odbc/versions/msi/)***)
+- **Postgres  -  (*Requires PostGre ODBC Driver found [here](https://www.postgresql.org/ftp/odbc/versions/msi/)***)
 <br><br>
 ![Image of SQL to Snowflake tool](https://github.com/NickAkincilar/SQL_to_Snowflake_Export_Tool/blob/main/images/SQL_2_Snowflake_Screenshot_H.png.PNG)
 
